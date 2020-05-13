@@ -1,0 +1,18 @@
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\bin\Debug\Replacing substrings.exe.config
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\bin\Debug\Replacing substrings.exe
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\bin\Debug\Replacing substrings.pdb
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\bin\Debug\Replacing substrings.xml
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\obj\Debug\Replacing_substrings.Resources.resources
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\obj\Debug\Replacing substrings.vbproj.GenerateResource.Cache
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\obj\Debug\Replacing substrings.exe
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\obj\Debug\Replacing substrings.xml
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\obj\Debug\Replacing substrings.pdb
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\bin\Debug\Replacing substrings.exe.config
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\obj\Debug\Replacing substrings.exe
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\obj\Debug\Replacing substrings.xml
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\obj\Debug\Replacing substrings.pdb
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\bin\Debug\Replacing substrings.exe
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\bin\Debug\Replacing substrings.pdb
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\bin\Debug\Replacing substrings.xml
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\obj\Debug\Replacing_substrings.Resources.resources
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Replacing substrings\Replacing substrings\obj\Debug\Replacing substrings.vbproj.GenerateResource.Cache

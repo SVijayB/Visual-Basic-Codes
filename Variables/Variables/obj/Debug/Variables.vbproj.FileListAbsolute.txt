@@ -1,0 +1,9 @@
+C:\Users\amazi\Desktop\Visual Basic\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\amazi\Desktop\Visual Basic\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\amazi\Desktop\Visual Basic\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\amazi\Desktop\Visual Basic\Variables\Variables\bin\Debug\Variables.xml
+C:\Users\amazi\Desktop\Visual Basic\Variables\Variables\obj\Debug\Variables.Resources.resources
+C:\Users\amazi\Desktop\Visual Basic\Variables\Variables\obj\Debug\Variables.vbproj.GenerateResource.Cache
+C:\Users\amazi\Desktop\Visual Basic\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\amazi\Desktop\Visual Basic\Variables\Variables\obj\Debug\Variables.xml
+C:\Users\amazi\Desktop\Visual Basic\Variables\Variables\obj\Debug\Variables.pdb

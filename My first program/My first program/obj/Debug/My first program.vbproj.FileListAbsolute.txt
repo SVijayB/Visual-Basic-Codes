@@ -1,0 +1,18 @@
+C:\Users\amazi\Desktop\Visual Basic\My first program\My first program\bin\Debug\My first program.exe.config
+C:\Users\amazi\Desktop\Visual Basic\My first program\My first program\bin\Debug\My first program.exe
+C:\Users\amazi\Desktop\Visual Basic\My first program\My first program\bin\Debug\My first program.pdb
+C:\Users\amazi\Desktop\Visual Basic\My first program\My first program\bin\Debug\My first program.xml
+C:\Users\amazi\Desktop\Visual Basic\My first program\My first program\obj\Debug\My_first_program.Resources.resources
+C:\Users\amazi\Desktop\Visual Basic\My first program\My first program\obj\Debug\My first program.vbproj.GenerateResource.Cache
+C:\Users\amazi\Desktop\Visual Basic\My first program\My first program\obj\Debug\My first program.exe
+C:\Users\amazi\Desktop\Visual Basic\My first program\My first program\obj\Debug\My first program.xml
+C:\Users\amazi\Desktop\Visual Basic\My first program\My first program\obj\Debug\My first program.pdb
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Normal  Programs\My first program\My first program\bin\Debug\My first program.exe.config
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Normal  Programs\My first program\My first program\bin\Debug\My first program.exe
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Normal  Programs\My first program\My first program\bin\Debug\My first program.pdb
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Normal  Programs\My first program\My first program\bin\Debug\My first program.xml
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Normal  Programs\My first program\My first program\obj\Debug\My_first_program.Resources.resources
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Normal  Programs\My first program\My first program\obj\Debug\My first program.vbproj.GenerateResource.Cache
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Normal  Programs\My first program\My first program\obj\Debug\My first program.exe
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Normal  Programs\My first program\My first program\obj\Debug\My first program.xml
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Normal  Programs\My first program\My first program\obj\Debug\My first program.pdb

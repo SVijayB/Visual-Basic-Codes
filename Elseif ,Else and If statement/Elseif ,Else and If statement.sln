@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Elseif ,Else and If statement", "Elseif ,Else and If statement\Elseif ,Else and If statement.vbproj", "{704ED67C-7CD7-49AF-A8F4-AD3DBB4B7EEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{704ED67C-7CD7-49AF-A8F4-AD3DBB4B7EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704ED67C-7CD7-49AF-A8F4-AD3DBB4B7EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704ED67C-7CD7-49AF-A8F4-AD3DBB4B7EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704ED67C-7CD7-49AF-A8F4-AD3DBB4B7EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

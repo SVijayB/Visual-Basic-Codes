@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B7209D02-1710-46FF-993C-B50873B27FC5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Pacman.My.MyApplication</StartupObject>
+    <RootNamespace>Pacman</RootNamespace>
+    <AssemblyName>Pacman</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <ApplicationIcon>pacMan.ico</ApplicationIcon>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Pacman.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Pacman.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsGhost.vb" />
+    <Compile Include="clsPac.vb" />
+    <Compile Include="clsSndChanB.vb" />
+    <Compile Include="frmGame.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGame.Designer.vb">
+      <DependentUpon>frmGame.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNameEntry.designer.vb">
+      <DependentUpon>frmNameEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNameEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmGame.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmGame.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNameEntry.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmNameEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maze.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pill.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PowerPill.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PacDown01.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PacDown02.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PacDown03.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PacLeft01.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PacLeft02.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PacLeft03.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PacRight01.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PacRight02.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PacRight03.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PacUP01.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PacUP02.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PacUP03.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PacNeutral.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Siren.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Invincible.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PacTitle.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GhostCyanDown.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GhostCyanLeft.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GhostCyanRight.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GhostCyanUP.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GhostOrangeDown.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GhostOrangeLeft.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GhostOrangeRight.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GhostOrangeUP.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GhostPinkDown.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GhostPinkLeft.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GhostPinkRight.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GhostPinkUP.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GhostRedUP.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GhostRedRight.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GhostRedLeft.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GhostRedDown.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GhostBlue.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="pacMan.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

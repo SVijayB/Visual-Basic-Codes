@@ -1,0 +1,11 @@
+frmChessMain = 29, 219, 810, 786, , 2, 41, 1038, 773, C
+DataStorage = -143, 175, 646, 800, 
+CalculateMoves = -119, 256, 583, 801, 
+PositioningFunctions = 107, 53, 896, 678, 
+ArtificialIntelligence = -218, 333, 534, 958, 
+SavingFunctions = 22, 147, 613, 595, 
+Debugger = -322, 234, 671, 706, , 21, 35, 913, 755, C
+frmFileMenu = 26, 241, 619, 689, , 0, 0, 593, 448, C
+WinCheck = 110, 145, 693, 593, 
+frmPawnPromotion = 22, 29, 857, 462, , 88, 116, 923, 549, C
+PawnPromotion = 27, 145, 846, 578, 

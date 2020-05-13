@@ -1,0 +1,9 @@
+C:\Users\amazi\Desktop\Visual Basic\Basic math operators\Basic math operators\bin\Debug\Basic math operators.exe.config
+C:\Users\amazi\Desktop\Visual Basic\Basic math operators\Basic math operators\bin\Debug\Basic math operators.exe
+C:\Users\amazi\Desktop\Visual Basic\Basic math operators\Basic math operators\bin\Debug\Basic math operators.pdb
+C:\Users\amazi\Desktop\Visual Basic\Basic math operators\Basic math operators\bin\Debug\Basic math operators.xml
+C:\Users\amazi\Desktop\Visual Basic\Basic math operators\Basic math operators\obj\Debug\Basic_math_operators.Resources.resources
+C:\Users\amazi\Desktop\Visual Basic\Basic math operators\Basic math operators\obj\Debug\Basic math operators.vbproj.GenerateResource.Cache
+C:\Users\amazi\Desktop\Visual Basic\Basic math operators\Basic math operators\obj\Debug\Basic math operators.exe
+C:\Users\amazi\Desktop\Visual Basic\Basic math operators\Basic math operators\obj\Debug\Basic math operators.xml
+C:\Users\amazi\Desktop\Visual Basic\Basic math operators\Basic math operators\obj\Debug\Basic math operators.pdb

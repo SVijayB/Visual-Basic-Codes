@@ -1,0 +1,19 @@
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\bin\Debug\Comparing strings.exe.config
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\bin\Debug\Comparing strings.exe
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\bin\Debug\Comparing strings.pdb
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\bin\Debug\Comparing strings.xml
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\obj\Debug\Comparing_strings.Resources.resources
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\obj\Debug\Comparing strings.vbproj.GenerateResource.Cache
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\obj\Debug\Comparing strings.exe
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\obj\Debug\Comparing strings.xml
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\obj\Debug\Comparing strings.pdb
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\bin\Debug\Comparing strings.exe.config
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\obj\Debug\Comparing strings.exe
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\obj\Debug\Comparing strings.xml
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\obj\Debug\Comparing strings.pdb
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\bin\Debug\Comparing strings.exe
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\bin\Debug\Comparing strings.pdb
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\bin\Debug\Comparing strings.xml
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\obj\Debug\Comparing strings.vbprojResolveAssemblyReference.cache
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\obj\Debug\Comparing_strings.Resources.resources
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Comparing strings\Comparing strings\obj\Debug\Comparing strings.vbproj.GenerateResource.Cache

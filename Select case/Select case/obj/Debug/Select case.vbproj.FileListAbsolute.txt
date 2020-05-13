@@ -1,0 +1,18 @@
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Select case\Select case\bin\Debug\Select case.exe.config
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Select case\Select case\bin\Debug\Select case.exe
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Select case\Select case\bin\Debug\Select case.pdb
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Select case\Select case\bin\Debug\Select case.xml
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Select case\Select case\obj\Debug\Select_case.Resources.resources
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Select case\Select case\obj\Debug\Select case.vbproj.GenerateResource.Cache
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Select case\Select case\obj\Debug\Select case.exe
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Select case\Select case\obj\Debug\Select case.xml
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Select case\Select case\obj\Debug\Select case.pdb
+D:\Vijaybalaji'sWorkspace\Visual Basic\Rocking Programs\Select case\Select case\bin\Debug\Select case.exe.config
+D:\Vijaybalaji'sWorkspace\Visual Basic\Rocking Programs\Select case\Select case\bin\Debug\Select case.exe
+D:\Vijaybalaji'sWorkspace\Visual Basic\Rocking Programs\Select case\Select case\bin\Debug\Select case.pdb
+D:\Vijaybalaji'sWorkspace\Visual Basic\Rocking Programs\Select case\Select case\bin\Debug\Select case.xml
+D:\Vijaybalaji'sWorkspace\Visual Basic\Rocking Programs\Select case\Select case\obj\Debug\Select_case.Resources.resources
+D:\Vijaybalaji'sWorkspace\Visual Basic\Rocking Programs\Select case\Select case\obj\Debug\Select case.vbproj.GenerateResource.Cache
+D:\Vijaybalaji'sWorkspace\Visual Basic\Rocking Programs\Select case\Select case\obj\Debug\Select case.exe
+D:\Vijaybalaji'sWorkspace\Visual Basic\Rocking Programs\Select case\Select case\obj\Debug\Select case.xml
+D:\Vijaybalaji'sWorkspace\Visual Basic\Rocking Programs\Select case\Select case\obj\Debug\Select case.pdb

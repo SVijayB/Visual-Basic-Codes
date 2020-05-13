@@ -1,0 +1,27 @@
+C:\Users\amazi\Desktop\Visual Basic\Logical operators\Logical operators\bin\Debug\Logical operators.exe.config
+C:\Users\amazi\Desktop\Visual Basic\Logical operators\Logical operators\bin\Debug\Logical operators.exe
+C:\Users\amazi\Desktop\Visual Basic\Logical operators\Logical operators\bin\Debug\Logical operators.pdb
+C:\Users\amazi\Desktop\Visual Basic\Logical operators\Logical operators\bin\Debug\Logical operators.xml
+C:\Users\amazi\Desktop\Visual Basic\Logical operators\Logical operators\obj\Debug\Logical_operators.Resources.resources
+C:\Users\amazi\Desktop\Visual Basic\Logical operators\Logical operators\obj\Debug\Logical operators.vbproj.GenerateResource.Cache
+C:\Users\amazi\Desktop\Visual Basic\Logical operators\Logical operators\obj\Debug\Logical operators.exe
+C:\Users\amazi\Desktop\Visual Basic\Logical operators\Logical operators\obj\Debug\Logical operators.xml
+C:\Users\amazi\Desktop\Visual Basic\Logical operators\Logical operators\obj\Debug\Logical operators.pdb
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Logical operators\Logical operators\bin\Debug\Logical operators.exe.config
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Logical operators\Logical operators\bin\Debug\Logical operators.exe
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Logical operators\Logical operators\bin\Debug\Logical operators.pdb
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Logical operators\Logical operators\bin\Debug\Logical operators.xml
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Logical operators\Logical operators\obj\Debug\Logical_operators.Resources.resources
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Logical operators\Logical operators\obj\Debug\Logical operators.vbproj.GenerateResource.Cache
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Logical operators\Logical operators\obj\Debug\Logical operators.exe
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Logical operators\Logical operators\obj\Debug\Logical operators.xml
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Logical operators\Logical operators\obj\Debug\Logical operators.pdb
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Logical operators\Logical operators\bin\Debug\Logical operators.exe.config
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Logical operators\Logical operators\obj\Debug\Logical operators.exe
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Logical operators\Logical operators\obj\Debug\Logical operators.xml
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Logical operators\Logical operators\obj\Debug\Logical operators.pdb
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Logical operators\Logical operators\bin\Debug\Logical operators.exe
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Logical operators\Logical operators\bin\Debug\Logical operators.pdb
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Logical operators\Logical operators\bin\Debug\Logical operators.xml
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Logical operators\Logical operators\obj\Debug\Logical_operators.Resources.resources
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Logical operators\Logical operators\obj\Debug\Logical operators.vbproj.GenerateResource.Cache

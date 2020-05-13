@@ -1,0 +1,9 @@
+C:\Users\amazi\Desktop\Visual Basic\String concatenate\String concatenate\bin\Debug\String concatenate.exe.config
+C:\Users\amazi\Desktop\Visual Basic\String concatenate\String concatenate\bin\Debug\String concatenate.exe
+C:\Users\amazi\Desktop\Visual Basic\String concatenate\String concatenate\bin\Debug\String concatenate.pdb
+C:\Users\amazi\Desktop\Visual Basic\String concatenate\String concatenate\bin\Debug\String concatenate.xml
+C:\Users\amazi\Desktop\Visual Basic\String concatenate\String concatenate\obj\Debug\String_concatenate.Resources.resources
+C:\Users\amazi\Desktop\Visual Basic\String concatenate\String concatenate\obj\Debug\String concatenate.vbproj.GenerateResource.Cache
+C:\Users\amazi\Desktop\Visual Basic\String concatenate\String concatenate\obj\Debug\String concatenate.exe
+C:\Users\amazi\Desktop\Visual Basic\String concatenate\String concatenate\obj\Debug\String concatenate.xml
+C:\Users\amazi\Desktop\Visual Basic\String concatenate\String concatenate\obj\Debug\String concatenate.pdb

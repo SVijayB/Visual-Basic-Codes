@@ -1,0 +1,9 @@
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Powers\Powers\bin\Debug\Powers.exe.config
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Powers\Powers\obj\Debug\Powers.Resources.resources
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Powers\Powers\obj\Debug\Powers.vbproj.GenerateResource.Cache
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Powers\Powers\bin\Debug\Powers.exe
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Powers\Powers\bin\Debug\Powers.pdb
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Powers\Powers\bin\Debug\Powers.xml
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Powers\Powers\obj\Debug\Powers.exe
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Powers\Powers\obj\Debug\Powers.xml
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Powers\Powers\obj\Debug\Powers.pdb

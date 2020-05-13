@@ -1,0 +1,9 @@
+C:\Users\amazi\Desktop\Visual Basic\Length of strings\Length of strings\bin\Debug\Length of strings.exe.config
+C:\Users\amazi\Desktop\Visual Basic\Length of strings\Length of strings\bin\Debug\Length of strings.exe
+C:\Users\amazi\Desktop\Visual Basic\Length of strings\Length of strings\bin\Debug\Length of strings.pdb
+C:\Users\amazi\Desktop\Visual Basic\Length of strings\Length of strings\bin\Debug\Length of strings.xml
+C:\Users\amazi\Desktop\Visual Basic\Length of strings\Length of strings\obj\Debug\Length_of_strings.Resources.resources
+C:\Users\amazi\Desktop\Visual Basic\Length of strings\Length of strings\obj\Debug\Length of strings.vbproj.GenerateResource.Cache
+C:\Users\amazi\Desktop\Visual Basic\Length of strings\Length of strings\obj\Debug\Length of strings.exe
+C:\Users\amazi\Desktop\Visual Basic\Length of strings\Length of strings\obj\Debug\Length of strings.xml
+C:\Users\amazi\Desktop\Visual Basic\Length of strings\Length of strings\obj\Debug\Length of strings.pdb

@@ -1,0 +1,9 @@
+C:\Users\amazi\Desktop\Visual Basic\Formating strings\Formating strings\bin\Debug\Formating strings.exe.config
+C:\Users\amazi\Desktop\Visual Basic\Formating strings\Formating strings\bin\Debug\Formating strings.exe
+C:\Users\amazi\Desktop\Visual Basic\Formating strings\Formating strings\bin\Debug\Formating strings.pdb
+C:\Users\amazi\Desktop\Visual Basic\Formating strings\Formating strings\bin\Debug\Formating strings.xml
+C:\Users\amazi\Desktop\Visual Basic\Formating strings\Formating strings\obj\Debug\Formating_strings.Resources.resources
+C:\Users\amazi\Desktop\Visual Basic\Formating strings\Formating strings\obj\Debug\Formating strings.vbproj.GenerateResource.Cache
+C:\Users\amazi\Desktop\Visual Basic\Formating strings\Formating strings\obj\Debug\Formating strings.exe
+C:\Users\amazi\Desktop\Visual Basic\Formating strings\Formating strings\obj\Debug\Formating strings.xml
+C:\Users\amazi\Desktop\Visual Basic\Formating strings\Formating strings\obj\Debug\Formating strings.pdb

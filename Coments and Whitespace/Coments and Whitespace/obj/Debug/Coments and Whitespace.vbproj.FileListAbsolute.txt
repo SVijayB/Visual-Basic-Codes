@@ -1,0 +1,9 @@
+C:\Users\amazi\Desktop\Visual Basic\Coments and Whitespace\Coments and Whitespace\bin\Debug\Coments and Whitespace.exe.config
+C:\Users\amazi\Desktop\Visual Basic\Coments and Whitespace\Coments and Whitespace\bin\Debug\Coments and Whitespace.exe
+C:\Users\amazi\Desktop\Visual Basic\Coments and Whitespace\Coments and Whitespace\bin\Debug\Coments and Whitespace.pdb
+C:\Users\amazi\Desktop\Visual Basic\Coments and Whitespace\Coments and Whitespace\bin\Debug\Coments and Whitespace.xml
+C:\Users\amazi\Desktop\Visual Basic\Coments and Whitespace\Coments and Whitespace\obj\Debug\Coments_and_Whitespace.Resources.resources
+C:\Users\amazi\Desktop\Visual Basic\Coments and Whitespace\Coments and Whitespace\obj\Debug\Coments and Whitespace.vbproj.GenerateResource.Cache
+C:\Users\amazi\Desktop\Visual Basic\Coments and Whitespace\Coments and Whitespace\obj\Debug\Coments and Whitespace.exe
+C:\Users\amazi\Desktop\Visual Basic\Coments and Whitespace\Coments and Whitespace\obj\Debug\Coments and Whitespace.xml
+C:\Users\amazi\Desktop\Visual Basic\Coments and Whitespace\Coments and Whitespace\obj\Debug\Coments and Whitespace.pdb

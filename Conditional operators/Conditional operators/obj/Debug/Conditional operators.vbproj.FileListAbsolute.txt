@@ -1,0 +1,26 @@
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Conditional operators\Conditional operators\bin\Debug\Conditional operators.exe.config
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Conditional operators\Conditional operators\bin\Debug\Conditional operators.exe
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Conditional operators\Conditional operators\bin\Debug\Conditional operators.pdb
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Conditional operators\Conditional operators\bin\Debug\Conditional operators.xml
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Conditional operators\Conditional operators\obj\Debug\Conditional_operators.Resources.resources
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Conditional operators\Conditional operators\obj\Debug\Conditional operators.vbproj.GenerateResource.Cache
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Conditional operators\Conditional operators\obj\Debug\Conditional operators.exe
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Conditional operators\Conditional operators\obj\Debug\Conditional operators.xml
+C:\Users\amazi\Desktop\Visual Basic\Basic calculator\Conditional operators\Conditional operators\obj\Debug\Conditional operators.pdb
+C:\Users\amazi\Desktop\Visual Basic\Conditional operators\Conditional operators\bin\Debug\Conditional operators.exe.config
+C:\Users\amazi\Desktop\Visual Basic\Conditional operators\Conditional operators\obj\Debug\Conditional operators.exe
+C:\Users\amazi\Desktop\Visual Basic\Conditional operators\Conditional operators\obj\Debug\Conditional operators.xml
+C:\Users\amazi\Desktop\Visual Basic\Conditional operators\Conditional operators\obj\Debug\Conditional operators.pdb
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Conditional operators\Conditional operators\bin\Debug\Conditional operators.exe.config
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Conditional operators\Conditional operators\obj\Debug\Conditional operators.exe
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Conditional operators\Conditional operators\obj\Debug\Conditional operators.xml
+C:\Users\amazi\Desktop\Visual Basic\Rocking Programs\Conditional operators\Conditional operators\obj\Debug\Conditional operators.pdb
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Conditional operators\Conditional operators\bin\Debug\Conditional operators.exe.config
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Conditional operators\Conditional operators\bin\Debug\Conditional operators.exe
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Conditional operators\Conditional operators\bin\Debug\Conditional operators.pdb
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Conditional operators\Conditional operators\bin\Debug\Conditional operators.xml
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Conditional operators\Conditional operators\obj\Debug\Conditional_operators.Resources.resources
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Conditional operators\Conditional operators\obj\Debug\Conditional operators.vbproj.GenerateResource.Cache
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Conditional operators\Conditional operators\obj\Debug\Conditional operators.exe
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Conditional operators\Conditional operators\obj\Debug\Conditional operators.xml
+D:\Vijaybalaji'sWorkspace\Computer Science\Visual Basic\Rocking Programs\Conditional operators\Conditional operators\obj\Debug\Conditional operators.pdb
